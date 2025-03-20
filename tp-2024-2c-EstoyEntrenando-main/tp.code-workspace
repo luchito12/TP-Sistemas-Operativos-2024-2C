@@ -1,0 +1,35 @@
+{
+  "folders": [
+    {
+      "name": "kernel",
+      "path": "kernel"
+    },
+    {
+      "name": "cpu",
+      "path": "cpu"
+    },
+    {
+      "name": "memoria",
+      "path": "memoria"
+    },
+    {
+      "name": "filesystem",
+      "path": "filesystem"
+    },
+    {
+      "name": "utils",
+      "path": "utils"
+    },
+    {
+      "path": "the-last-of-c-pruebas"
+    }
+  ],
+  "settings": {
+    "debug.onTaskErrors": "abort",
+    "files.associations": {
+      "*.h": "c",
+      "cmath": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+  }
+}
